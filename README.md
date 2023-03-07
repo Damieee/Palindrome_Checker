@@ -31,13 +31,13 @@ You can use a while loop to compare the characters at the beginning and end of t
 ### Return True if the string is a palindrome:
 If the loop completes without finding any non-matching characters, that means the string is a palindrome. You can return True to indicate this.
 
-## Test your implementation:
+## Testing your implementation:
 
-After writing the code, you can test your implementation by:
+After writing the code, you should test your implementation by:
 
 #### 1. Running the main() function:
 The main() function prompts the user to enter a string and then calls the is_palindrome() function to check if the string is a palindrome or not. You can try out different input strings to see if your implementation works correctly.
 
-#### Running the palindrome_test.py to confirm that all test passed.
+#### 2. Running the palindrome_test.py to confirm that all test passed.
 
 Good luck and have fun coding!
